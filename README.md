@@ -40,7 +40,6 @@ The project uses the InceptionV3 deep learning model for ingredient recognition 
 
 - Multi-ingredient detection
 - Nutritional analysis
-- Personalized recipe recommendation
 - Voice-based ingredient input
 
 ## Developer
